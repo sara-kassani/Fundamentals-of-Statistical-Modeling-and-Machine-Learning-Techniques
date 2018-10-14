@@ -1,13 +1,4 @@
-
-
-
 import os
-
-
-""" First change the following directory link to where all input files do exist """
-os.apter 2")
-
-
 import numpy as np
 import pandas as pd
 import statsmodels.api as sm
