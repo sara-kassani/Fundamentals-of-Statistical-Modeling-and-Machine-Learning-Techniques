@@ -1,11 +1,3 @@
-droput_rate= 0.5
-
-model.add(Conv2D(32, kernel_size=8, activation='relu', padding='same'))
-model.add(Dropout(rate=droput_rate))
-
-
-
-
 import os  
 import numpy as np
 import pandas as pd
